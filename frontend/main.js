@@ -3,7 +3,7 @@ const sendBtn = document.getElementById("sendBtn");
 const messageInput = document.getElementById("message");
 const usernameInput = document.getElementById("username");
 
-const url = "http://localhost:3000/messages";
+const url = "http://ifoywwpsr49vn44h7j9nj9rz.178.105.39.91.sslip.io";
 
 function addMessage(msg) {
 
